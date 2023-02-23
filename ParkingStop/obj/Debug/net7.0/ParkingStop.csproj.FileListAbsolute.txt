@@ -1,0 +1,170 @@
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\appsettings.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.staticwebassets.runtime.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.exe
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.deps.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.runtimeconfig.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.pdb
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Humanizer.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.RazorAssemblyInfo.cache
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.RazorAssemblyInfo.cs
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.ParkingStop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingStop.props
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingStop.props
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingStop.props
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\scopedcss\bundle\ParkingStop.styles.css
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\scopedcss\projectbundle\ParkingStop.bundle.scp.css
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\refint\ParkingStop.dll
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.pdb
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-5\Downloads\12D\ParkingStop\ParkingStop\obj\Debug\net7.0\ref\ParkingStop.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\appsettings.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.staticwebassets.runtime.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.exe
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.deps.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.runtimeconfig.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\ParkingStop.pdb
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.csproj.AssemblyReference.cache
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.AssemblyInfoInputs.cache
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.AssemblyInfo.cs
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.csproj.CoreCompileInputs.cache
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.RazorAssemblyInfo.cache
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.RazorAssemblyInfo.cs
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.ParkingStop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingStop.props
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingStop.props
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingStop.props
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\scopedcss\bundle\ParkingStop.styles.css
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\scopedcss\projectbundle\ParkingStop.bundle.scp.css
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.csproj.CopyComplete
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\refint\ParkingStop.dll
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.pdb
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ParkingStop.genruntimeconfig.cache
+C:\Users\tbele\Downloads\DI 2023\ParkingStop\ParkingStop\obj\Debug\net7.0\ref\ParkingStop.dll

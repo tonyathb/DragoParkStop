@@ -168,7 +168,6 @@ namespace ParkingStop.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -187,7 +186,14 @@ namespace ParkingStop.Migrations
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
-                    b.Property<string>("PlaceName")
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("IsInvalid")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -198,6 +204,9 @@ namespace ParkingStop.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<int>("Size")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Status")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -378,13 +387,13 @@ namespace ParkingStop.Migrations
 
             modelBuilder.Entity("ParkingStop.Data.ParkingPlace", b =>
                 {
-                    b.HasOne("ParkingStop.Data.Category", "Categorys")
+                    b.HasOne("ParkingStop.Data.Category", "Categories")
                         .WithMany("ParkingPlaces")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Categorys");
+                    b.Navigation("Categories");
                 });
 
             modelBuilder.Entity("ParkingStop.Data.Reservation", b =>
